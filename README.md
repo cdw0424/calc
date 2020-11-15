@@ -1,5 +1,7 @@
 # calc
 
+* 1일 1프로젝트로 만드는 초간단 계산기 임
+
 A new Flutter application.
 
 ## Getting Started
